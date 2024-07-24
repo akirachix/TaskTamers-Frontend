@@ -1,0 +1,150 @@
+
+#logo{
+    width: 140px;
+    height: 130px;
+    padding: 20px 0px 0px 90px;
+}
+
+#searchBar{
+position: relative;
+padding: 10px 150px;
+border-radius: 20px;
+border: solid 1px rgba(190, 180, 180, 0.433);
+background-color: rgba(190, 180, 180, 0.433);
+}
+
+.fa{
+    position: absolute;
+    left: 780px;
+    top: 100px;
+
+}
+
+.icons{
+    width: 40px;
+    height: 40px;
+    padding-right: 20px;
+}
+
+#user{
+    font-size: 30px;
+}
+
+#navbar{
+    display: flex;
+    gap: 700px;
+    padding-top: 90px;
+}
+
+hr{
+    font-size: 10px;
+    width: 1470px;
+    margin-left: 325px;
+}
+
+#logo-navbar{
+    display: flex;
+    gap: 100px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+    color: white;
+    font-size: 30px;
+}
+
+li:hover{
+    cursor: pointer;
+    color: purple;
+}
+
+li:active{
+    color: white;
+    font-weight: bold;
+}
+
+
+#dashboard{
+    display: flex;
+    gap: 50px;
+}
+
+#teacherName{
+    background-color: rgb(183, 152, 203);
+    padding: 10px 5px 10px 15px;
+    width: 190px;
+    font-size: 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.student-month{
+    font-size: 30px;
+    background-color: rgb(231, 178, 187);
+    padding: 10px 100px 10px 15px;
+    border-radius: 5px;
+    margin-left: 10px ;
+}
+
+#student-dropDown{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 500px;
+    top: 270px;
+}
+
+#month-dropDown{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 680px;
+    top: 270px;
+}
+
+#bar-chart{
+width: 600px;
+padding-top: 20px;
+}
+
+#pieChart-heading{
+font-size: 40px;
+padding-bottom: 10px;
+}
+
+#student-perfomance{
+    padding-left: 280px;
+}
+
+.color{
+    width: 20px;
+    height: 20px;
+    border: solid;
+}
+
+#colors{
+    display: flex;
+    gap: 20px;
+    padding: 50px 20px;
+}
+
+.practicalCategories{
+    font-size: 25px;
+}
+
+#purple{
+background-color: rgb(165, 91, 230);
+}
+
+#green{
+background-color: greenyellow;
+}
+
+#yellow{
+    background-color: yellow;
+}

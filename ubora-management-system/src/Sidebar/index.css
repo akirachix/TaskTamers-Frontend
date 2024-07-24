@@ -1,0 +1,21 @@
+
+#sidebar{
+    background-color: rgb(155, 67, 213);
+    width: 280px;
+    flex-direction: column;
+    border-radius: 20px;
+    padding: 20px 0px 150px 10px;
+    margin-left: 10px;
+}
+
+.page{
+    display: flex;
+    gap: 20px;
+    padding: 50px 10px 50px 2px;  
+}
+
+.sidebar-icons{
+    width: 50px;
+    height: 50px;
+}
+
